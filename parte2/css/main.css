@@ -1,0 +1,27 @@
+body{
+
+}
+.blue {
+	width: 400px;
+	height: 400px;
+	background-color: blue;
+
+}
+
+.green {
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+}
+
+.black {
+	width: 90px;
+	height: 90px;
+	background-color: black;
+	position: relative;
+	left: -90px;
+	top: -90px;
+}
